@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vishwa/Desktop/College/Academics/Semester 6 Summer 2021/Data Structures and Algorithms/Project3/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+queue
+-
+utility
+-
+chrono
+-
+
